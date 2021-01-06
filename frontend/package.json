@@ -8,7 +8,7 @@
     "@material-ui/core": "^4.10.0",
     "@material-ui/icons": "^4.9.1",
     "antd": "^4.3.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.8.2",
     "canvasjs": "^1.8.3",
     "chart.js": "^2.9.3",
